@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\MagazijnUitleenAppV2\laravel\resources\views/sign-in.blade.php ENDPATH**/ ?>
